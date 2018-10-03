@@ -1,3 +1,3 @@
 <?php
-	echo 'Modificando arquivo.';
+	echo 'Modificando a mensagem.';
 ?>
